@@ -2,11 +2,12 @@
 
 ## About me
 
-I am an organized person, motivated, with good communication skills, eager to learn new things and constantly developing new skills and abilities. 
+I am a detail-oriented and motivated professional with strong communication and problem-solving skills, eager to continuously learn and develop new abilities.
 
-I decided to become a Sofware Tester, so I finished a sofware tester course recently. 
+After completing a Manual QA training program and obtaining the ISTQB Foundation Level certification, I became increasingly interested in software testing and quality assurance.
 
-I would like to share my all gained knowledge from this course and from my personal researches.
+This repository contains practical exercises and testing projects created during my training and personal learning process, including test cases, bug reports, and structured testing documentation.
+
 
 ## Skills
 
